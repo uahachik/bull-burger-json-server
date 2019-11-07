@@ -1,0 +1,21 @@
+{
+  "name": "react-json-server",
+  "version": "1.0.0",
+  "description": "Simple React app with Heroku json server",
+  "homepage": "https://react-bull-burger.herokuapp.com",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server",
+    "dev": "npm run server"
+  },
+  "author": "Roman Kotenko",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
