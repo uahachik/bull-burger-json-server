@@ -2,7 +2,7 @@
   "name": "react-json-server",
   "version": "1.0.0",
   "description": "Simple React app with Heroku json server",
-  "homepage": "https://react-bull-burger.herokuapp.com",
+  "homepage": "https://react-json-server.herokuapp.com",
   "main": "server.js",
   "private": true,
   "scripts": {
